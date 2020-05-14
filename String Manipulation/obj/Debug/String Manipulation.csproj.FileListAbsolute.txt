@@ -1,0 +1,7 @@
+C:\Users\kaviya\source\repos\String Manipulation\String Manipulation\bin\Debug\String Manipulation.exe.config
+C:\Users\kaviya\source\repos\String Manipulation\String Manipulation\bin\Debug\String Manipulation.exe
+C:\Users\kaviya\source\repos\String Manipulation\String Manipulation\bin\Debug\String Manipulation.pdb
+C:\Users\kaviya\source\repos\String Manipulation\String Manipulation\obj\Debug\String Manipulation.csprojAssemblyReference.cache
+C:\Users\kaviya\source\repos\String Manipulation\String Manipulation\obj\Debug\String Manipulation.csproj.CoreCompileInputs.cache
+C:\Users\kaviya\source\repos\String Manipulation\String Manipulation\obj\Debug\String Manipulation.exe
+C:\Users\kaviya\source\repos\String Manipulation\String Manipulation\obj\Debug\String Manipulation.pdb
